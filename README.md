@@ -1,7 +1,7 @@
 # Introduce
 ## NoSQL & Redis 도서에 대한 스터디 Repository
 ## 스터디 진행 방식
-- 매주 1장씩 읽고 정리?
+- 매주 1챕터씩 읽고 정리?
 
 ## 스터디 진행 인원
 - Meengi
